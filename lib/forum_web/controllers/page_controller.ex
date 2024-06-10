@@ -12,6 +12,6 @@ defmodule ForumWeb.PageController do
       %{id: 1, name: "Alice", email: "alice@email.com"},
       %{id: 1, name: "Bob", email: "bob@email.com"}
     ]
-    render(conn, :users, users: users, layout: false)
+    json(conn, %{users: users})
   end
 end
