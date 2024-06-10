@@ -9,13 +9,13 @@ This project is based on the Tutorial [Phoenix Framework REST API Crash Course -
 
 The created api has the following endpoints:
 
-    * GET api/users
-    * GET api/users:id (Also returns all the posts made by that user)
-    * POST api/users 
-    * GET api/posts 
-    * GET api/posts/:id 
-    * POST api/posts 
-    * PUT api/posts 
+  * GET api/users
+  * GET api/users:id (Also returns all the posts made by that user)
+  * POST api/users 
+  * GET api/posts 
+  * GET api/posts/:id 
+  * POST api/posts 
+  * PUT api/posts 
 
 ## Getting started
 
@@ -25,11 +25,3 @@ To start the Phoenix server:
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-## Learn more about Phoenix
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
