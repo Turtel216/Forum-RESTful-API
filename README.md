@@ -1,5 +1,12 @@
 # Forum
 
+## About 
+
+This is a simple implementation of a forum WebApp using Elixir and the phoenix framework.
+This project is based on the Tutorial [Phoenix Framework REST API Crash Course - Introduction + Full Elixir API Tutorial](https://www.youtube.com/watch?v=9xaN44PNxps&t=2163s)
+
+## Getting started
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
@@ -9,7 +16,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
-## Learn more
+## Learn more about Phoenix
 
   * Official website: https://www.phoenixframework.org/
   * Guides: https://hexdocs.pm/phoenix/overview.html
